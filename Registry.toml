@@ -4,3 +4,4 @@ repo = "https://github.com/grahamas/SmithThesisRegistry.git"
 description = "Registry of packages for Graham Smith's PhD thesis and related papers"
 
 [packages]
+310cc8c8-1ffe-11e9-399c-c5a008d6bdcc = { name = "Simulation73", path = "S/Simulation73" }
