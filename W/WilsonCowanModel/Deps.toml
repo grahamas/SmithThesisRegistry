@@ -1,0 +1,7 @@
+[2]
+Contour = "d38c429a-6771-53c6-b99e-75d170b6e991"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+NeuralModels = "a199b2c4-7a51-11e9-2fe1-b9a1a5fe2912"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+Simulation73 = "310cc8c8-1ffe-11e9-399c-c5a008d6bdcc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"

@@ -6,3 +6,4 @@ description = "Registry of packages for Graham Smith's PhD thesis and related pa
 [packages]
 310cc8c8-1ffe-11e9-399c-c5a008d6bdcc = { name = "Simulation73", path = "S/Simulation73" }
 a199b2c4-7a51-11e9-2fe1-b9a1a5fe2912 = { name = "NeuralModels", path = "N/NeuralModels" }
+bdbc91b4-201b-11e9-2b98-89611552dcef = { name = "WilsonCowanModel", path = "W/WilsonCowanModel" }
