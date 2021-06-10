@@ -1,0 +1,6 @@
+name = "SmithThesisRegistry"
+uuid = "36792399-b749-4824-8e0a-635f2d19cb0c"
+repo = "git@github.com:grahamas/SmithThesisRegistry.git"
+description = "Registry of packages for Graham Smith's PhD thesis and related papers"
+
+[packages]
