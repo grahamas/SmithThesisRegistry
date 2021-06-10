@@ -4,6 +4,7 @@ repo = "https://github.com/grahamas/SmithThesisRegistry.git"
 description = "Registry of packages for Graham Smith's PhD thesis and related papers"
 
 [packages]
+2846d769-be22-4083-a76c-fdabc4869842 = { name = "Simulation73Plotting", path = "S/Simulation73Plotting" }
 310cc8c8-1ffe-11e9-399c-c5a008d6bdcc = { name = "Simulation73", path = "S/Simulation73" }
 a199b2c4-7a51-11e9-2fe1-b9a1a5fe2912 = { name = "NeuralModels", path = "N/NeuralModels" }
 b7a787de-74f3-11e9-2c3d-21bc6dc7d0e1 = { name = "TravelingWaveSimulations", path = "T/TravelingWaveSimulations" }
