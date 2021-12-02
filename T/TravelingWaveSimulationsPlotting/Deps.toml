@@ -1,7 +1,6 @@
 [0]
 AlgebraOfGraphics = "cbdf2221-f076-402e-a563-3d30da359d67"
 ArrayInterface = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
-AxisIndices = "f52c9ee2-1b1c-4fd8-8546-6350938c7f11"
 BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
@@ -38,5 +37,12 @@ TravelingWaveSimulations = "b7a787de-74f3-11e9-2c3d-21bc6dc7d0e1"
 VectorizationBase = "3d5dd08c-fd9d-11e8-17fa-ed2836048c2f"
 WilsonCowanModel = "bdbc91b4-201b-11e9-2b98-89611552dcef"
 
+["0-0.2.3"]
+AxisIndices = "f52c9ee2-1b1c-4fd8-8546-6350938c7f11"
+
 ["0.2.2-0"]
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+
+["0.2.4-0"]
+NullclineAnalysis = "b032b04e-6398-4201-8d15-161497fcf6c6"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
