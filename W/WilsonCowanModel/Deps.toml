@@ -5,3 +5,7 @@ NeuralModels = "a199b2c4-7a51-11e9-2fe1-b9a1a5fe2912"
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
 Simulation73 = "310cc8c8-1ffe-11e9-399c-c5a008d6bdcc"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["2.2-2"]
+NamedDims = "356022a1-0364-5f58-8944-0da4b18d706f"
+NullclineAnalysis = "b032b04e-6398-4201-8d15-161497fcf6c6"
