@@ -11,3 +11,6 @@ Simulation73 = "310cc8c8-1ffe-11e9-399c-c5a008d6bdcc"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
+
+["0.2.3-0"]
+NamedDimsHelpers = "72e6b469-206c-443f-8d03-b2dd71534e00"
