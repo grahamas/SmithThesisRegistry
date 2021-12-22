@@ -8,3 +8,6 @@ AxisIndices = "f52c9ee2-1b1c-4fd8-8546-6350938c7f11"
 
 ["0.3-0"]
 NamedDims = "356022a1-0364-5f58-8944-0da4b18d706f"
+
+["0.4.1-0"]
+NamedDimsHelpers = "72e6b469-206c-443f-8d03-b2dd71534e00"
