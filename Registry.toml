@@ -7,6 +7,7 @@ description = "Registry of packages for Graham Smith's PhD thesis and related pa
 090ce58c-883b-45c9-8a81-7f2bda835033 = { name = "TravelingWaveSimulationsPlotting", path = "T/TravelingWaveSimulationsPlotting" }
 2846d769-be22-4083-a76c-fdabc4869842 = { name = "Simulation73Plotting", path = "S/Simulation73Plotting" }
 310cc8c8-1ffe-11e9-399c-c5a008d6bdcc = { name = "Simulation73", path = "S/Simulation73" }
+6a41bcfa-3301-11ec-2a0d-df01ea421e5a = { name = "TripleCorrelations", path = "T/TripleCorrelations" }
 72e6b469-206c-443f-8d03-b2dd71534e00 = { name = "NamedDimsHelpers", path = "N/NamedDimsHelpers" }
 a199b2c4-7a51-11e9-2fe1-b9a1a5fe2912 = { name = "NeuralModels", path = "N/NeuralModels" }
 b032b04e-6398-4201-8d15-161497fcf6c6 = { name = "NullclineAnalysis", path = "N/NullclineAnalysis" }
