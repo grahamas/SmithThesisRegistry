@@ -6,7 +6,6 @@ ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 DiffEqBase = "2b5f629d-d688-5b77-993f-72d75c75574e"
-DiffEqOperators = "9fdde737-9c7f-55bf-ade8-46b3f136cc48"
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
@@ -27,6 +26,9 @@ WilsonCowanModel = "bdbc91b4-201b-11e9-2b98-89611552dcef"
 
 ["2-3.1.0"]
 OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+
+["2-3.2.0"]
+DiffEqOperators = "9fdde737-9c7f-55bf-ade8-46b3f136cc48"
 
 ["3.1-3"]
 NullclineAnalysis = "b032b04e-6398-4201-8d15-161497fcf6c6"
